@@ -1,5 +1,5 @@
 # React Native Movie Search
-This project contains an example of a React Native project, that implements a movie search application, that makes use of an online REST API.
+This project contains an example of a React Native project, that implements a movie search application, that makes use of an online REST API (OMDB).
 The project is divided into the following steps:
 1. Clean the generated project source-code and modify [index.ios.js][1]
 2. Create [Header][2]
